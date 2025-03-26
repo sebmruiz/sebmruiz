@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hola soy Sebastian, Frontend Developer de Buenos Aires. Tengo 24 años, empece en le mundo de la programacion a en febrero del 2022, realice los cursos de HTML, CSS y Javascript en EscueladevRock, y actualmente continuo estudiando para convertirme en un desarrollador Full Stack.
 
 * 🌍  I'm based in Buenos Aires. Argentina
 * ✉️  You can contact me at [sebastian@sebmruiz.com](mailto:sebastian@sebmruiz.com)
